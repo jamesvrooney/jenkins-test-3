@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GreetingController {
 
 
-    public void sayHello(String newCustomer11){
+    public void sayHello(String newCustomer12){
     }
 
 }
